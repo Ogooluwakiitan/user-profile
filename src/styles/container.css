@@ -1,0 +1,16 @@
+body {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 98, 116, 1) 20%,
+    rgba(255, 209, 103, 1) 50%
+  );
+  overflow: hidden;
+  margin: 20px 80px;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  column-gap: 15px;
+}
