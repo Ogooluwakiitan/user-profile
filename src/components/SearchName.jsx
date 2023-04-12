@@ -42,7 +42,7 @@ const SearchName = () => {
                   width: "400px",
                   marginBottom: "8px",
                   padding: "5px",
-                  borderRadius: '3px'
+                  borderRadius: "3px",
                 }}
               >
                 <div style={{ display: "flex" }}>
